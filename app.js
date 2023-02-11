@@ -55,6 +55,7 @@ while(valor != 1){
 }
 */
 
+
 let dias = ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"]
 for(let i = 0; i < dias.length; i++){
     if(dias[i] === "sabado" || dias[i] === "domingo"){
